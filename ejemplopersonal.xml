@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Navip/OneDrive/Documentos/Practica5_a170057/ejemplopersonal.xsl"?>
+<perros>
+  <perro>
+    <nombre>Kira</nombre>
+    <raza>pitbull</raza>
+  </perro>
+  <perro>
+    <nombre>Tati</nombre>
+    <raza>Boxer</raza>
+  </perro>
+  <perro>
+    <nombre>Pupi</nombre>
+    <raza>BullDog</raza>
+</perro>
+</perros>
